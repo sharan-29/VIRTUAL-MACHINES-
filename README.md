@@ -1,8 +1,8 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-## NAME: Sharan Kumar G
-## REG NO: 212224230260
+### NAME: Sharan Kumar G
+### REG NO: 212224230260
 
 Aim:
 To move the files between virtual machine.
